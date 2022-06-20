@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sd"
+        android:title="@string/shapedrawable">
+        <menu>
+            <item
+                android:id="@+id/rectanglesd"
+                android:title="@string/rectangle" />
+            <item
+                android:id="@+id/circlesd"
+                android:title="@string/circle" />
+            <item
+                android:id="@+id/starsd"
+                android:title="@string/star" />
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/castanim"
+        android:title="@string/cast_animation">
+
+    </item>
+
+    <item
+        android:id="@+id/sv"
+        android:title="@string/surfaceview">
+    </item>
+</menu>

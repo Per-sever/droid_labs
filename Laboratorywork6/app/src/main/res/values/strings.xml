@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratory work 6</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="circle">Circle</string>
+    <string name="star">Star</string>
+    <string name="shapedrawable">ShapeDrawable</string>
+    <string name="surfaceview">SurfaceView</string>
+    <string name="cast_animation">Cast animation</string>
+</resources>

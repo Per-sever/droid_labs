@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratory work 4</string>
+    <string name="first_page">First page</string>
+    <string name="second_page">Second page</string>
+    <string name="third_page">Third page</string>
+    <string name="lifecycle_callback">lifecycle callback</string>
+    <string name="call_button">call_button</string>
+    <string name="contacts_button" />
+</resources>

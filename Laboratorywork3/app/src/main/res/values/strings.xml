@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laboratory work 3</string>
+    <string name="hey">Message</string>
+    <string name="description">Descr</string>
+    <string name="notification">Notification</string>
+    <string name="long_toast">Long Toast</string>
+    <string name="short_toast">Short Toast</string>
+    <string name="exit">Exit</string>
+    <string name="dialog_message">Вы уверены, что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+</resources>
